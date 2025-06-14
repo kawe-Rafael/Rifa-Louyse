@@ -1,4 +1,4 @@
-/* Reset básico */
+
 * {
   margin: 0;
   padding: 0;
@@ -121,9 +121,6 @@ footer a:hover {
   text-decoration: underline;
 }
 
-/* --------- MEDIA QUERIES --------- */
-
-/* Para celulares pequenos (até 480px) */
 @media (max-width: 480px) {
   header h1 {
     font-size: 1.8rem;
